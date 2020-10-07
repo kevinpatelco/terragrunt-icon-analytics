@@ -1,3 +1,3 @@
-# terragrunt-icon-analytics
+# Icon Analytics
 
 > WIP - Check dev branch 
